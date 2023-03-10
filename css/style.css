@@ -70,7 +70,7 @@ body {
 #card-inside {
   font-size: 1.3em;
   line-height: 1.4;
-font-family: 'Lobster';
+  font-family: 'Lobster';
   color: #331717;
   font-style: italic;
 }
@@ -86,7 +86,7 @@ p:first-child {
 p.signed {
   margin-top: 1.5em;
   text-align: center;
-font-family: 'Indie Flower', cursive;
+  font-family: 'Indie Flower', cursive;
   font-size: 1.5em;
 }
 
@@ -390,8 +390,8 @@ font-family: 'Lobster', cursive;
   left: 0;
   right: 0;
   margin: auto;
-  -webkit-transform: rotate(-5deg);
-          transform: rotate(-5deg);
+  -webkit-transform: rotate(-1deg);
+          transform: rotate(-1deg);
   clear: both;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
